@@ -18,7 +18,7 @@ Here are a few projects I've worked on:
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://linkedin.com/in/anuragkhadye)
-- [Email](mailto:your.email@example.com)
+- [Email](anuraghkhadye@gmail.com)
 
 ## ⚡ Fun Fact
 I was a state-level karate champion in the U-19 category! 🥋
