@@ -1,24 +1,44 @@
-# Hi there! 👋 I'm Anurag Khadye
+# Hi, I'm Anurag Khadye
 
-## 🚀 About Me
+Computer Science graduate with a strong interest in machine learning, software engineering, and applied AI systems.
 
-I'm a **Computer Science student at Coventry University**, currently in my second year, with a strong passion for technology and innovation. I enjoy exploring the latest advancements in the tech world and am dedicated to mastering essential skills such as coding, algorithms, and problem-solving.
+I enjoy working on practical projects that combine data, algorithms, and real-world problem solving.
 
-### 🌟 What I Do
-- 📚 Studying Artificial Intelligence, Advanced Algorithms, Data Science, Software Engineering, and more.
-- 👨‍💻 Developing projects involving **Python**, **JavaScript**, **C++**, and **SQL**.
-- 🌐 Interested in areas like **IoT**, **AI**, and **Data Science**.
-- 🎓 Preparing for a placement year, looking to gain experience as a **Data Scientist** or **Software Developer**.
+---
 
-## 💻 Projects
-Here are a few projects I've worked on:
-- **Smart Camera Project**: An IoT-based smart camera system integrating AI for enhanced surveillance.
-- **Hospital Management System**: A Python and MySQL-based comprehensive system for managing hospital data.
-- Learning projects like **Classic Ping Pong**, **Snake Game**, and **Capstone Flash Card**.
+## What I work on
+- Predictive maintenance using machine learning
+- Data analysis and model evaluation
+- Secure and scalable software systems
+- AI-driven decision-making systems
 
-## 📫 How to Reach Me
-- [LinkedIn](https://linkedin.com/in/anuragkhadye)
-- [Email](anuraghkhadye@gmail.com)
+---
 
-## ⚡ Fun Fact
-I was a state-level karate champion in the U-19 category! 🥋
+## Technical Skills
+- Programming: Python
+- Machine Learning: scikit-learn, pandas, NumPy
+- Data Analysis & Visualisation
+- Web & Backend: Flask (basic)
+- Tools: Git, GitHub, Jupyter Notebook
+- Databases: SQLite (basic)
+
+---
+
+## Featured Projects
+- **Predictive Maintenance System for Industrial Robots**  
+  Machine learning models to detect abnormal robot behaviour using sensor and operational data.
+
+- **Secure E-commerce Platform**  
+  A security-focused web application prototype implementing authentication, RBAC, and OWASP mitigations.
+
+---
+
+## Currently Learning
+- Advanced machine learning workflows
+- Model evaluation and interpretability
+- Software engineering best practices
+
+---
+
+## Contact
+GitHub: https://github.com/AnuKhadye
