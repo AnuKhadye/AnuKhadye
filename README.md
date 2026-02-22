@@ -87,9 +87,3 @@ Security-first web application prototype
 - GitHub: https://github.com/AnuKhadye  
 
 ---
-
-<div align="center">
-
-_Design goal: clarity, impact, and visual balance._
-
-</div>
